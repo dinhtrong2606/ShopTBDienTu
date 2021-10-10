@@ -1,0 +1,25 @@
+
+.privilege_group{
+    margin-bottom: 15px;
+  }
+.privilege_group ul{
+    margin: 0;
+    padding: 0;
+  }
+.privilege_group ul li{
+    float: left;
+    width: 40%;
+    list-style: none;
+    margin-left: 30px;
+  }
+#editing-form .privilege_group ul li input{
+    float: none;
+}
+#editing-form .privilege_group ul li label{
+    float: none;
+    width: auto;
+}
+.group-name{
+  margin: 0;
+  padding-bottom: 5px;
+}

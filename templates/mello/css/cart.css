@@ -1,0 +1,12 @@
+#cart-item{
+    position: fixed;
+    top: 30%;
+    right: 0;
+    border-radius: 100%;
+    overflow: hidden;
+    z-index: 1;
+}
+#ajax-cart{
+    width: 1200px;
+
+}
